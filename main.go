@@ -4,5 +4,5 @@ import "fmt"
 
 func main (){
   v:= vijay
-  fmt.Println("v", v)
+  fmt.Println("name", v)
   }
